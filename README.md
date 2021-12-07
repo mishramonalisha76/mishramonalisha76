@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Monalisha Mishra, a frontend developer familiar with full stack skills. In love with the startup and web3 combo culture and want to explore more by 
+
+**About Me**
+
+  <li>
+  🗼 Living in Jamshedpur, India.
+   </li>
+     <li>
+  👨‍💻 Currently Working at Factset.<br/>
+   </li>
+     <li>
+  ✈️ Open to Remote Job Opportunities 🍻.<br/>
+   </li>
+ 
+
 
 <!--
 **mishramonalisha76/mishramonalisha76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
