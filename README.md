@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Monalisha Mishra, a frontend developer familiar with full stack skills. In love with the startup and web3 combo culture and want to explore more by 
+I'm Monalisha Mishra, a frontend developer familiar with full stack skills. In love with the startup and web3 combo culture and now want to get hands-on experience in it.
 
 **About Me**
 
