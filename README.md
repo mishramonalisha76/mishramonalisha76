@@ -3,15 +3,12 @@ I'm Monalisha Mishra, a frontend developer familiar with full stack skills. In l
 
 **About Me**
 
-  <li>
-  🗼 Living in Jamshedpur, India.
-   </li>
-     <li>
-  👨‍💻 Currently Working at Factset.<br/>
-   </li>
-     <li>
-  ✈️ Open to Remote Job Opportunities 🍻.<br/>
-   </li>
+- ❤️ I'm currently building an open-source marketplace on the Polygon Network connecting businesses, project-owners, and clients with independent developers all around the globe. Tap here 👉 [Chainwhiz](https://www.chainwhiz.app/)
+  
+- 👨‍💻 Currently Working at Factset.
+  
+- ✈️ Open to Remote Job Opportunities 🍻.
+  
  
 
 
