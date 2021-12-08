@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Monalisha Mishra, a frontend developer familiar with full stack skills. In love with the startup and web3 combo culture and now want to get hands-on experience in it.
+I'm Monalisha Mishra, a frontend developer familiar with full stack skills. In love with the startup and web3 culture and want to explore more.
 
 **About Me**
 
@@ -8,21 +8,9 @@ I'm Monalisha Mishra, a frontend developer familiar with full stack skills. In l
 - 👨‍💻 Currently Working at Factset.
   
 - ✈️ Open to Remote Job Opportunities 🍻.
-  
+
+- :black_nib: Find me writing poems in my leisure
  
 
 
-<!--
-**mishramonalisha76/mishramonalisha76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
