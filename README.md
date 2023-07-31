@@ -5,7 +5,7 @@ I'm Monalisha Mishra, a frontend developer familiar with full stack skills. In l
 
 - ❤️ I'm currently building an open-source marketplace on the Polygon Network connecting businesses, project-owners, and clients with independent developers all around the globe. Tap here 👉 [Chainwhiz](https://www.chainwhiz.app/)
   
-- 👨‍💻 Currently Working at Factset.
+- 👨‍💻 Currently Working at Push Protocol.
   
 - ✈️ Open to Remote Job Opportunities 🍻.
 
